@@ -1,0 +1,9 @@
+@charset "UTF-8";
+    .practice {position: absolute; left: 245px; transform: translateX(-50%;)}
+    .practice ul:after {clear: both; content: ""; display: block;}
+    .practice li {float: left; margin-left: 400px;}
+
+   
+   .b{ border-spacing: 30px; }
+   .centerline{text-align: center; font-size:large;
+    		color: #50bcdf;}

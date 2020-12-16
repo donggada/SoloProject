@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+
+.mainVisual{
+    position: relative; height: 610px; margin-bottom: 80px;
+    overflow: hidden;}
+    /* overlow속성 : 현재 태그공간에서 벗어나는 내용을 처리하는 속성.
+    기본적으로 태그공간에 벗어나는 내용들은 화면에 다 보이도록 처리됨.
+    만약 현재 태그공간에 벗어나는 내용들을 보여주지 않도록 만들기 원한다면
+    overflow속성값을 hidden으로 처리하면 됨. */
+.mainVisual video{
+    width: 100%; height: auto;}
+.mainVisual .bg1{
+    position: absolute; top: 0; left: 0;
+    width: 100%; height: 100%; 
+    background-color: #0cc8f0; opacity: 0.95;}
+    /* 
+        opacity속성 : 태그에 투명도를 추가함.
+        {opacity:0;} => 완전투명상태. 
+                        화면에 자리는 잡고 있으나 보이지 않음.
+        {opacity:1;} => 완전불투명사태. 선명하게 보이는 기본상태.
+        {opacity:0.45;} => 45%의 투명도가 적용됨.
+
+        해당 태그영역에 포함 된 모든 내용이 투명도에 의해 영향받음.
+    */
+.mainVisual .bg2{
+    position: absolute; top: 164px; left: 50%;
+    width: 206px; height: 282px; margin-left: -103px;
+    background-image: url(../img/mv_bg.png);}
+
+.mainInfo{
+    width: 1120px; margin-left: auto; margin-right: auto;
+    margin-bottom: 80px; padding-bottom: 260px;
+    background-image: url(../img/bg_main.png);
+    background-repeat: no-repeat;
+    background-position: center bottom;}
+.mainInfo h3{
+    width: 224px; height: 30px; margin-bottom: 25px;
+    text-indent: -9999px;
+    background-image: url(../img/sp_ico.png);
+    background-position: 0 -34px;}
+.mainInfo .box p{
+    margin-bottom: 20px;
+    font-size: 14px; line-height: 24px; color: #808080;}
+.mainInfo .box a{
+    font-size: 14px; color: #505b6c; text-decoration: underline;}
+.mainInfo .box a:hover{
+    color: #0cc8f0;}
+
+.mainCareer{
+    padding-top: 60px; padding-bottom: 60px;
+    margin-bottom: 80px;
+    background-image: url(../img/bg_career.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;}
+.mainCareer .inner{
+    width: 1120px; margin-left: auto; margin-right: auto;}
+.mainCareer .inner h3{
+    width: 162px; height: 30px; margin-bottom: 25px;
+    text-indent: -9999px;
+    background-image: url(../img/sp_ico.png);
+    background-position: 0 -114px;}
+.mainCareer .inner .box p{
+    margin-bottom: 45px;
+    font-size: 14px; line-height: 24px; color: #fff;}
+.mainCareer .inner .box a{
+    display: block; width: 140px; height: 50px;
+    border: 1px solid #e6e7eb;
+    text-align: center; line-height: 50px;
+    font-size: 14px;  color: #fff;}
+
+.mainNews{
+    width: 1120px; margin-left: auto; margin-right: auto;
+    margin-bottom: 80px;}
+.mainNews h3{
+    width: 120px; height: 30px; margin-bottom: 25px;
+    text-indent: -9999px;
+    background-image: url(../img/sp_ico.png);
+    background-position: 0 -154px;}
+.mainNews .list ul:after{
+	content:""; display:block; clear:both;}
+.mainNews .list li{
+    float: left; width: 490px;}
+.mainNews .list li:first-child{
+    border-right: 1px solid #e6e6e6;
+    margin-right: 69px; padding-right: 69px;}
+.mainNews .list li .title{
+    margin-bottom: 12px; font-size: 16px; color: #333;
+    white-space: nowrap; /*자동줄바꿈 사용하지 않음.*/
+    overflow: hidden; /*공간크기 바깥에 출력되는 내용 안보임*/
+    text-overflow: ellipsis; /*공간 바깥으로 출력되는 글자가 있을 때
+    말줄임표 만들어주기*/ }
+.mainNews .list li .date{
+    margin-bottom: 20px; color: #777;}
+.mainNews .list li .memo{
+    font-size: 15px; color: #555;}
