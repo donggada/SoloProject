@@ -1,5 +1,5 @@
 # SoloProject
-===
+
 <img width="600" alt="스크린샷 2020-12-17 오전 10 40 32" src="https://user-images.githubusercontent.com/68542404/102427416-a97e7680-4054-11eb-85c6-58b873e4f2b7.png">
 
 
@@ -42,7 +42,7 @@
   - Github  
 ---
 ## 데이터베이스
-<img width="600" alt="스크린샷 2020-11-08 오후 2 50 38" src="https://user-images.githubusercontent.com/68542404/98458288-62d66a80-21d2-11eb-960a-eca594077f28.png">
+<img width="600" alt="스크린샷 2020-12-17 오전 11 06 08" src="https://user-images.githubusercontent.com/68542404/102434495-37a82c00-4058-11eb-986a-b71f9d907764.png">
 
 
 ## 기능구현
