@@ -79,7 +79,7 @@
  ## 메일보내기
   - 메일보내기 기능 구현 (Mail.jar lib 사용)
  <img width="600" alt="스크린샷 2020-12-17 오전 11 24 05" src="https://user-images.githubusercontent.com/68542404/102435919-ce75e800-405a-11eb-9ebb-4c41369ae4e7.png">
-  - 매일 보내기 성공
+ - 메일 보내기 성공
  <img width="600" alt="스크린샷 2020-12-17 오전 11 26 42" src="https://user-images.githubusercontent.com/68542404/102435926-d2a20580-405a-11eb-8b5c-b811d9483fd5.png">
 
   
