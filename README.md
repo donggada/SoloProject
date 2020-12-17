@@ -68,4 +68,3 @@
   - 메일보내기 기능 구현 (Mail.jar lib 사용)
   <img width="600" alt="스크린샷 2020-11-08 오후 5 56 10" src="https://user-images.githubusercontent.com/68542404/98461122-fddc3e00-21ec-11eb-99a3-f03312884506.png">
   <img width="600" alt="스크린샷 2020-11-08 오후 5 59 04" src="https://user-images.githubusercontent.com/68542404/98461120-f9178a00-21ec-11eb-954a-ad36209803b0.png">
-  
