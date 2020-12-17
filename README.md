@@ -46,7 +46,7 @@
 
 ## 기능구현
  - [로그인](#로그인)
- - [이미지-업로드-및-다운](#이미지-업로드-및-다운)
+ - [이미지 업로드 및 다운](#이미지-업로드-및-다운)
  - [댓글달기](#댓글달기)
  - [메일보내기](#메일보내기)
  
@@ -71,3 +71,10 @@
   - 메일보내기 기능 구현 (Mail.jar lib 사용)
   <img width="600" alt="스크린샷 2020-11-08 오후 5 56 10" src="https://user-images.githubusercontent.com/68542404/98461122-fddc3e00-21ec-11eb-99a3-f03312884506.png">
   <img width="600" alt="스크린샷 2020-11-08 오후 5 59 04" src="https://user-images.githubusercontent.com/68542404/98461120-f9178a00-21ec-11eb-954a-ad36209803b0.png">
+  
+ ## 댓글달기
+  - MySql DB를 사용하여 로그인 기능 구현
+  - 댓글은 시간별로 정렬하여 최신댓글을 위로 올라가도록 구현 
+  <img width="600" alt="스크린샷 2020-11-08 오후 5 56 10" src="https://user-images.githubusercontent.com/68542404/98461122-fddc3e00-21ec-11eb-99a3-f03312884506.png">
+  <img width="600" alt="스크린샷 2020-11-08 오후 5 59 04" src="https://user-images.githubusercontent.com/68542404/98461120-f9178a00-21ec-11eb-954a-ad36209803b0.png">
+  
