@@ -65,7 +65,7 @@
 ## 이미지 업로드 및 다운
 - 갤러리 게시판에 이미지업로드 및 다운 기능 (cos.jar lib 사용)
  <img width="600" alt="스크린샷 2020-12-17 오전 10 48 13" src="https://user-images.githubusercontent.com/68542404/102427810-6d97e100-4055-11eb-8e34-abc26a1e3331.png">
-- 갤러리 업로하기
+- 갤러리 업로드 하기
 <img width="600" alt="스크린샷 2020-12-17 오전 11 22 21" src="https://user-images.githubusercontent.com/68542404/102435571-2e1fc380-405a-11eb-989f-2d0828f85a08.png">
 - 갤러리에 올릴 파일 선택
  <img width="600" alt="스크린샷 2020-12-17 오전 11 18 39" src="https://user-images.githubusercontent.com/68542404/102435313-bb164d00-4059-11eb-8751-0701bf11f19d.png">
